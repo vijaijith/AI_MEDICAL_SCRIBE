@@ -1,0 +1,10 @@
+gradio
+faster-whisper
+ollama
+pywhatkit
+pyautogui
+torch
+numpy
+pandas
+jupyter
+notebook
