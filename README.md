@@ -49,7 +49,7 @@ Faster Whisper for transcription
 
 Simply open and run:
 
-jupyter notebook gradio.ipynb or in VScode
+ gradio_ui.py
 
 ## 🧰 Requirements
 
