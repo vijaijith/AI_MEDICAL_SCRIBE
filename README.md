@@ -31,7 +31,7 @@ It uses **Whisper** for audio transcription, **Llama 3** for structured summariz
 ├── requirements.txt # Dependencies list
 └── README.md # Project overview
 
-🧠 Model Setup
+##🧠 Model Setup
 
 This project uses:
 
@@ -45,8 +45,22 @@ Faster Whisper for transcription
 👉 Automatically downloads when running the app.
 
 
-Running the Project
+##▶️ Running the Project
 
 Simply open and run:
 
 jupyter notebook gradio.ipynb or in VScode
+
+##🧰 Requirements
+
+See requirements.txt
+ for all required dependencies.
+
+##🛡️ Disclaimer
+
+This project is a prototype for educational and research use.
+It should not be used as a replacement for professional medical advice or diagnosis.
+
+##🧑‍💻 Author
+
+Developed by: github.com/vijaijith
