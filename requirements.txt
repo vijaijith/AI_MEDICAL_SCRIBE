@@ -6,5 +6,3 @@ pyautogui
 torch
 numpy
 pandas
-jupyter
-notebook
